@@ -19,6 +19,7 @@ const App: React.FC = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
 
   const scrollToSection = (elementRef: React.RefObject<HTMLDivElement>) => {
+    setMenuOpen(false)
     elementRef.current?.scrollIntoView({ behavior: "smooth" });
   };
 
