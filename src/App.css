@@ -41,7 +41,7 @@
 }
 
 .navbar-logo {
-  height: 50px;
+  height: 30px;
   width: auto;
   cursor: pointer;
 }
@@ -158,7 +158,7 @@ body {
   width: 90%;
   max-width: 800px;
   text-align: center;
-  font-size: 2rem;
+  font-size: 1rem;
   animation: fadeInUp 2s ease-out;
 }
 .submit-button {
