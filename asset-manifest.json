@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/terapiboxen/static/css/main.6b85b64b.css",
-    "main.js": "/terapiboxen/static/js/main.fc5c63a5.js",
+    "main.js": "/terapiboxen/static/js/main.be390401.js",
     "static/js/453.d37c2d4a.chunk.js": "/terapiboxen/static/js/453.d37c2d4a.chunk.js",
     "static/media/background.gif": "/terapiboxen/static/media/background.a623a4e02b862a924501.gif",
     "static/media/box1positive.png": "/terapiboxen/static/media/box1positive.fa36586c7468a9279b05.png",
@@ -10,11 +10,11 @@
     "static/media/generic-collegue.png": "/terapiboxen/static/media/generic-collegue.a3270b9359b74ff92403.png",
     "index.html": "/terapiboxen/index.html",
     "main.6b85b64b.css.map": "/terapiboxen/static/css/main.6b85b64b.css.map",
-    "main.fc5c63a5.js.map": "/terapiboxen/static/js/main.fc5c63a5.js.map",
+    "main.be390401.js.map": "/terapiboxen/static/js/main.be390401.js.map",
     "453.d37c2d4a.chunk.js.map": "/terapiboxen/static/js/453.d37c2d4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b85b64b.css",
-    "static/js/main.fc5c63a5.js"
+    "static/js/main.be390401.js"
   ]
 }
