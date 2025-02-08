@@ -23,7 +23,9 @@ const App: React.FC = () => {
   };
 
   const handleCardClick = (product: any) => {
-    console.log("Product clicked:", product);
+    if (window.innerWidth > 1000) {
+      return;
+    }
     setSelectedProduct(product);
     setIsModalOpen(true);
   };

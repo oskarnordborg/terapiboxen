@@ -39,7 +39,7 @@ const products = [
     ),
   },
   {
-    id: 1,
+    id: 2,
     name: "Hitta Lugnet-boxen",
     image: box2img,
     description: (
