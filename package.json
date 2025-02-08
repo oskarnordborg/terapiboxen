@@ -1,6 +1,7 @@
 {
   "name": "terapiboxen",
   "version": "0.1.0",
+  "homepage": "https://oskarnordborg.github.io/terapiboxen",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
