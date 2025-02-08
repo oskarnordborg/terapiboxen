@@ -1,0 +1,34 @@
+.footer {
+  padding: 20px 0;
+  text-align: center;
+  border-top: 1px solid #dee2e6;
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.links {
+  margin: 10px 0;
+}
+
+.links a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #007bff;
+}
+
+.links a:hover {
+  text-decoration: underline;
+}
+
+.socialMedia {
+  margin: 10px 0;
+}
+
+.socialMedia a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #007bff;
+}
+
+.socialMedia a:hover {
+  text-decoration: underline;
+}
